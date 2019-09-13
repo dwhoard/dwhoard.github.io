@@ -1,4 +1,5 @@
-# This is D. W. Hoard's data science projects
+# Data Science Projects and Code
+## by D. W. Hoard, Ph.D.
 
 I'm an astronomer, data scientist, and IT professional.
 
